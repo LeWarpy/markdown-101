@@ -4,7 +4,6 @@ Github Flavored Markdown Syntax Guide
 You can visit the [armdong.github.io/markdown-101/][homepage] Github Pages site directly.
 
 # Github Flavored Markdown Syntax Simple Guide
----
 
 ## Contents
 

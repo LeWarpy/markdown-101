@@ -181,6 +181,77 @@ _This is the italiced text again._
 
 ---
 
+## List
+> It is simple to make ordered list or unordered list with markdown.
+
+### Unordered List
+> We can use '+', '-' or '*' characters to make unordered list, just like the word below:
+
+**Syntax:**
+
+``` markdown
++ item 1
++ item 2
++ item 3
+```
+
+``` markdown
+- item 1
+- item 2
+- item 3
+```
+
+``` markdown
+* item 1
+* item 2
+* item 3
+```
+
+**Usage:**
+
+> Here are some programming languages
+
+- JavaScript
+- HTML
+- CSS
+- C#
+- Java
+
+> Here is the content part of a book
+
++ Chapter 1
+  - Section 1
+  - Section 2
+  - Section 3
++ Chapter 2
+  - Section 1
+  - Section 2
+    * Content 1
+    * Content 2
+    * Content 3
+    * Content 4
+  - Section 3
++ Chapter 3
+
+### Ordered List
+> You just need to use a number and a dot character to build the Ordered List, whatever the number is.
+
+**Syntax:**
+
+``` markdown
+1. Level One
+2. Level Two
+3. Level Three
+```
+
+**Usage:**
+
+> Here is the example of a student's score.
+
+1. Math: 99
+2. English: 90
+3. Art: 88
+
 
 
 [//]: # "Some pre defined links here"

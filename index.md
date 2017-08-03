@@ -63,6 +63,39 @@ ___
 
 ---
 
+## Code highlight
+> Print code and highlight code syntax.
+
+- single line code:  `console.log('hi there').`
+
+- multi lines code:
+
+  - javascript code:
+
+    ``` javascript
+    // class of dog
+    export default class Dog {
+      constructor(name) {
+        this.name = name;
+      }
+      bark() {
+        console.log('Wun, wun, wun...');
+      }
+    }
+    ```
+
+  - Ruby code:
+
+    ``` ruby
+    def foo(x)
+      return 3
+    end
+    ```
+
+---
+
+
+
 
 
 

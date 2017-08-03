@@ -252,6 +252,24 @@ _This is the italiced text again._
 2. English: 90
 3. Art: 88
 
+---
+
+## TODO List
+
+**Syntax:**
+
+``` markdown
+- [ ] unchecked item
+- [x] checked item
+```
+
+**Usage:**
+> Here are some todo list you have to do or already done.
+
+- [x] Wash your face.
+- [x] Clean your tooth.
+- [ ] Eat your breakfast.
+- [ ] Ride you bicycle then go to school.
 
 
 [//]: # "Some pre defined links here"

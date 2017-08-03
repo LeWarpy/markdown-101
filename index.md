@@ -271,6 +271,28 @@ _This is the italiced text again._
 - [ ] Eat your breakfast.
 - [ ] Ride you bicycle then go to school.
 
+---
+
+## Table
+> In markdown, you can build table like this:
+
+First Header | Second Header | Third Header
+:----------- | :-----------: | -----------:
+Left         | Center        | Right
+Left         | Center        | Right
+Left         | Center        | Right
+
+**Syntax:**
+
+``` markdown
+First Header | Second Header | Third Header
+:----------- | :-----------: | -----------:
+Left         | Center        | Right
+Left         | Center        | Right
+Left         | Center        | Right
+```
+
+
 
 [//]: # "Some pre defined links here"
 [homepage]: https://armdong.github.io/markdown-101/

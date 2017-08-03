@@ -110,8 +110,10 @@ ___
 - This is the link to [Google](http://www.google.com).
 - This is the link to [Baidu](https://www.baidu.com "Baidu").
 - This is the link to [Github][github].
+- This is the link to [Twitter][twitter].
 
 [github]: https://github.com
+[twitter]: https://twitter.com "Twritter Homapage"
 
 ---
 

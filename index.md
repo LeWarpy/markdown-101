@@ -148,7 +148,38 @@ Click the page and redirct to my Github. [![Github Image](https://octodex.github
 ---
 
 ## Bold and Italic
+> We can use '*' and '_' character to bold or italic text.
 
+### Bold
+
+**Syntax:**
+
+``` markdown
+**text to bold**
+__text to bold also__
+```
+
+**Usage:**
+
+**This is the bolded text.**
+
+__This is the bolded text again.__
+
+### Italic
+
+**Syntax:**
+``` markdown
+*text to italic*
+_text to italic also_
+```
+
+**Usage:**
+
+*This is the italiced text.*
+
+_This is the italiced text again._
+
+---
 
 
 

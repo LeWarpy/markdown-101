@@ -94,7 +94,32 @@ ___
 
 ---
 
+## Link
+> Square brackets shows link text and parentheses define the link url.
 
+**Syntax:**
+``` markdown
+[link_text](link_url)
+[link_text](link_url "link_title")
+
+[link_text][link_id]
+[link_id]: link_url "link_title"
+```
+
+**Usage:**
+- This is the link to [Google](http://www.google.com).
+- This is the link to [Baidu](https://www.baidu.com "Baidu").
+- This is the link to [Github][github].
+
+[github]: https://github.com
+
+---
+
+## Image
+
+---
+
+## Bold and Italic
 
 
 

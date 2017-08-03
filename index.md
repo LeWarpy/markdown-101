@@ -112,12 +112,38 @@ ___
 - This is the link to [Github][github].
 - This is the link to [Twitter][twitter].
 
-[github]: https://github.com
-[twitter]: https://twitter.com "Twritter Homapage"
-
 ---
 
 ## Image
+
+**Syntax:**
+``` markdown
+![Alt text](/path/to/img.jpg)
+![Alt text](/path/to/img.jpg "Optional title")
+
+![Alt text][id]
+[id]: url/to/image "Optional title attribute"
+```
+
+**Usage:**
+![Dinotocat Image](https://octodex.github.com/images/dinotocat.png)
+
+![Inflatocat Image](https://octodex.github.com/images/inflatocat.png "this is the inflatocat image")
+
+![Privateinvestocat Image][privateinverstocat]
+[privateinverstocat]: https://octodex.github.com/images/privateinvestocat.jpg "This is the private investocat image"
+
+---
+
+## Image Link
+
+**Syntax:**
+``` markdown
+[![Alt text](/path/to/img.jpg "Optional image title")](link_url "Optional link title")
+```
+
+**Usage:**
+Click the page and redirct to my Github. [![Github Image](https://octodex.github.com/images/saritocat.png "Saritocat")](https://github.com/armdong)
 
 ---
 
@@ -128,3 +154,5 @@ ___
 
 [//]: # "Some pre defined links here"
 [homepage]: https://armdong.github.io/markdown-101/
+[github]: https://github.com
+[twitter]: https://twitter.com "Twritter Homapage"

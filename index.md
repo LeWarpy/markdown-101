@@ -1,9 +1,7 @@
 # Github Flavored Markdown Syntax Simple Guide
 
----
-
-### Comments
-> You can add comment to markdown by three ways below:
+## Comments
+> You can add comment to markdown by three ways like below:
 
 **Syntax One:**
 ``` markdown
@@ -26,7 +24,7 @@ neither
 [//]: # "This may be the most platform independent comment"
 ```
 
----
+
 
 
 [//]: # "Some pre defined links here"

@@ -1,5 +1,7 @@
 # Github Flavored Markdown Syntax Simple Guide
 
+---
+
 ## Comments
 > You can add comment to markdown by three ways like below:
 
@@ -24,8 +26,17 @@ neither
 [//]: # "This may be the most platform independent comment"
 ```
 
+---
 
+## Horizontal lines
+> A line consisting of 0-3 spaces of indentation, followed by a sequence of three or more matching -, _, or * characters, each followed optionally by any number of spaces.
 
+**Syntax:**
+``` markdown
+***
+---
+___
+```
 
 [//]: # "Some pre defined links here"
 [homepage]: https://armdong.github.io/markdown-101/

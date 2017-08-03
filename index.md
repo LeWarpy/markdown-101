@@ -156,4 +156,6 @@ Click the page and redirct to my Github. [![Github Image](https://octodex.github
 [homepage]: https://armdong.github.io/markdown-101/
 [github]: https://github.com
 [twitter]: https://twitter.com "Twritter Homapage"
+
+[//]: # "Some pre defined images here"
 [privateinverstocat]: https://octodex.github.com/images/privateinvestocat.jpg "This is the private investocat image"

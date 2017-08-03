@@ -126,6 +126,7 @@ ___
 ```
 
 **Usage:**
+
 ![Dinotocat Image](https://octodex.github.com/images/dinotocat.png)
 
 ![Inflatocat Image](https://octodex.github.com/images/inflatocat.png "this is the inflatocat image")

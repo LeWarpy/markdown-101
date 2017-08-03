@@ -132,7 +132,6 @@ ___
 ![Inflatocat Image](https://octodex.github.com/images/inflatocat.png "this is the inflatocat image")
 
 ![Privateinvestocat Image][privateinverstocat]
-[privateinverstocat]: https://octodex.github.com/images/privateinvestocat.jpg "This is the private investocat image"
 
 ---
 
@@ -157,3 +156,4 @@ Click the page and redirct to my Github. [![Github Image](https://octodex.github
 [homepage]: https://armdong.github.io/markdown-101/
 [github]: https://github.com
 [twitter]: https://twitter.com "Twritter Homapage"
+[privateinverstocat]: https://octodex.github.com/images/privateinvestocat.jpg "This is the private investocat image"

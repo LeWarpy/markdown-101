@@ -5,20 +5,36 @@ You can visit the [armdong.github.io/markdown-101/][homepage] Github Pages site 
 
 # Github Flavored Markdown Syntax Simple Guide
 
-## Contents
+---
 
-1. Introduction
+### Comments
+> You can add comment to markdown by three ways below:
 
-2. Perliminaries
+**Syntax One:**
+``` markdown
+[comment]: <> (This is a comment, it will not be included)
+[comment]: <> (in the output file unless you use it in)
+[comment]: <> (a reference style link.)
+```
 
-3. Blocks and inlines
+**Syntax Two:**
+``` markdown
+[//]: <> (This is also a comment.)
+```
 
-4. Leaf blocks
+**Syntax Three: _(Recommend)_**
+``` markdown
+[//]: # (This may be the most platform independent comment)
+```
+neither
+``` markdown
+[//]: # "This may be the most platform independent comment"
+```
 
-5. Container blocks
-
-6. Inlines
+---
 
 
 
+
+[//]: # "Some pre defined links here"
 [homepage]: https://armdong.github.io/markdown-101/
